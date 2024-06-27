@@ -5,6 +5,6 @@ This is done by eliminating the functionality of the auto updater by replacing i
 
 You will get occasional errors while TeraBox is running about the auto updater not being able to run on Windows, this is intentional as stated above
 
-This batch script is meant to be installed by an installer made with Advanced Installer 16.3+ - I've made my own installer using Advanced Installer for TeraBox and it is available on my Google Drive
+This batch script is meant to be installed by an installer made with Advanced Installer 16.3+ and utilizes files with corrupted headers to replace the auto updater as well as some custom config files - neither of which are provided here
 
-If you want to use the batch script on an existing installation of TeraBox, simply save it as a .bat file in the same directory as TeraBox.exe and replace all instances of [APPDIR] in the batch file with the path to your TeraBox installation
+I've made my own installer using Advanced Installer for TeraBoxSecure (which I highly recommend you use rather than trying to do it yourself) and it is available on my [Google Drive]([https://www.google.com](https://drive.google.com/file/d/1rwlfD5PC0_0vtwV8cm02eTkDd5c_--RA)
