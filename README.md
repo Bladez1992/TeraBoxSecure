@@ -7,4 +7,4 @@ You will get occasional errors while TeraBox is running about the auto updater n
 
 This batch script is meant to be installed by an installer made with Advanced Installer 16.3+ and utilizes files with corrupted headers to replace the auto updater as well as some custom config files - neither of which are provided here
 
-I've made my own installer using Advanced Installer for TeraBoxSecure (which I highly recommend you use rather than trying to do it yourself) and it is available on my [Google Drive]([https://www.google.com](https://drive.google.com/file/d/1rwlfD5PC0_0vtwV8cm02eTkDd5c_--RA)
+I've made my own installer using Advanced Installer for TeraBoxSecure (which I highly recommend you use rather than trying to do it yourself) and it is available on my [Google Drive](https://drive.google.com/file/d/1rwlfD5PC0_0vtwV8cm02eTkDd5c_--RA)
